@@ -1,0 +1,92 @@
+[
+    {
+        "ProductName": "D3500",
+        "GraphicName": "Nikon D3500 DSLR Camera",
+        "CostPrice": "400.00",
+        "MSRP": "599.00",
+        "QtyOnHand": "100",
+        "QtyOnBackOrder": "0",
+        "Description": "Beautiful pictures for all. You don't need to be a photographer to know a great photo when you see one. And you don't need to be a photographer to take a great photo—you just need the D3500. It's as easy to use as a point-and-shoot, but it takes beautiful DSLR photos and videos that get noticed. It feels outstanding in your hands, sturdy and balanced with controls where you want them. It's compact, durable and versatile, ideal for travel. And it works seamlessly with compatible smartphones, making it easier than ever to share your great photos. Even if you've never picked up a DSLR camera, you can take beautiful pictures with D3500.",
+        "Brand": "Nikon"
+    },
+    {
+        "ProductName": "D5600",
+        "GraphicName": "Nikon D5600 DSLR Camera",
+        "CostPrice": "900.00",
+        "MSRP": "1299.00",
+        "QtyOnHand": "0",
+        "QtyOnBackOrder": "10",
+        "Description": "Step up to the next level. Stand out from the crowd with photos and videos so impressive, they'll inspire you to keep shooting and learning. Out of the box, you can leave things up to the camera and immediately start taking great photos and videos without the learning curve. As your skills develop, the D5600 offers plenty of room to grow with exceptional image quality, intuitive controls and powerful tools for pushing the boundaries of your creativity as far as they’ll bend. Unlike others, with a battery lasting over 970 shots per charge, you'll be able to keep shooting all day long.",
+        "Brand": "Nikon"
+    },
+    {
+        "ProductName": "D7500",
+        "GraphicName": "Nikon D7500 DSLR Camera",
+        "CostPrice": "1000.00",
+        "MSRP": "1599,00",
+        "QtyOnHand": "10",
+        "QtyOnBackOrder": "0",
+        "Description": "Born from a desire for flagship performance and innovation in a more compact and streamlined connected camera, the D7500 delivers the game-changing resolution, ISO range, image processing and energy efficiency of the award-winning D500 in an enthusiast-level DSLR. Simply put, the D7500 is built to outperform any camera in its class with top-tier image quality, blazing speed, flawless autofocus, 4K Ultra HD video and pro-grade creative tools—all in a comfortable, rugged design. This is a camera for the new generation of creators.",
+        "Brand": "Nikon"
+    },
+    {
+        "ProductName": "EOS REBEL SL3",
+        "GraphicName": "Canon EOS Rebel SL3 DSLR Camera",
+        "CostPrice": "700.00",
+        "MSRP": "899.99",
+        "QtyOnHand": "10",
+        "QtyOnBackOrder": "0",
+        "Description": "Whether you’re a first time SLR user, an aspiring photo enthusiast, or someone looking to capture those amazing family moments, the Canon EOS Rebel SL3 can be the perfect companion. It’s the smallest and lightest EOS DSLR camera to date*, and is equipped with 4K recording capability, Canon’s Dual Pixel CMOS AF, and a vari-angle LCD for selfies and fun angles. Its 24.1 Megapixel (APS-C) CMOS Sensor combines with the powerful DIGIC 8 Processor for amazing performance and results, and the EOS Rebel SL3 even lets you channel your creativity with options like 4K Time-lapse movies and Creative Assist. Wherever you are and wherever you go, the EOS Rebel SL3 camera makes it simple to capture stunning photos and videos to view and share.",
+        "Brand": "Canon"
+    },
+    {
+        "ProductName": "EOS Rebel T5i",
+        "GraphicName": "Canon EOS Rebel T5i DSLR Camera",
+        "CostPrice": "800.00",
+        "MSRP": "949.00",
+        "QtyOnHand": "0",
+        "QtyOnBackOrder": "3",
+        "Description": "Photo enthusiasts rejoice! The new flagship of the spectacular Rebel Line, the EOS Rebel T5i, is here to renew your artistic side with amazing imaging features and full-featured functionality. Users will be impressed at how simple and intuitive it is to create breathtaking photos with ease. The incredible image quality and performance starts with an 18.0 Megapixel CMOS (APS-C) sensor and Canon's superb DIGIC 5 Image Processor. Combined with an extensive ISO range of 100-12800 (expandable to 25600 in H mode), the EOS Rebel T5i boasts crisp, detailed images, even in low-light situations. A continuous shooting speed of up to 5.0 fps allows for fast action capture. 9 cross-type AF focus points help ensure crisp focus throughout the frame, and the Hybrid CMOS AF system enables speedy and accurate autofocus when shooting in Live View mode. In addition, the camera is compatible with Canon STM lenses for smooth, quiet AF performance. And the performance doesn't stop with photos. EOS Full HD Movie mode with Movie Servo AF makes shooting high quality movies easy, and the brilliant Vari-angle Touch Screen 3.0-inch Clear View LCD monitor II makes composing fun. Seven Creative Filters, now viewable in real time, puts composition control directly in your hands and is just one of the many features of the EOS Rebel T5i that is sure to renew your creative soul.",
+        "Brand": "Canon"
+    },
+    {
+        "ProductName": "EOS Rebel T7",
+        "GraphicName": "Canon EOS Rebel T7 DSLR Camera",
+        "CostPrice": "450.00",
+        "MSRP": "599.00",
+        "QtyOnHand": "60",
+        "QtyOnBackOrder": "0",
+        "Description": "Ideal for mobile device users wanting to take the next step with their photography, the EOS Rebel T7 camera combines fantastic features with easy-to-use operation for high-quality images you'll be proud to share. Harness the power of the EOS Rebel T7's large 24.1 Megapixel CMOS sensor to realize your potential for great shots. Share the memories with your friends and family quickly and easily via built-in Wi-Fi®* and NFC** technology. With the EOS Rebel T7's fast autofocus system, you can capture every moment as it happens, viewing each shot through the bright optical viewfinder. A range of additional features, including a large LCD screen, Full HD video recording and an on-board feature guide help you capture eye-catching photos and video.",
+        "Brand": "Canon"
+    },
+    {
+        "ProductName": "A3000",
+        "GraphicName": "Sony Alpha a3000 Digital Camera",
+        "CostPrice": "300.00",
+        "MSRP": "399.99",
+        "QtyOnHand": "10",
+        "QtyOnBackOrder": "10",
+        "Description": "The Sony Alpha a3000 Digital Camera features the form-factor and familiar shape of an SLR within a highly compact and lightweight design. Its ergonomic grip, electronic viewfinder, and Multi Interface shoe offer a wealth of support for intuitive operation and stability",
+        "Brand": "Sony"
+    },
+    {
+        "ProductName": "A7III",
+        "GraphicName": "Sony Alpha a7 III Mirrorless Digital Camera",
+        "CostPrice": "1700.00",
+        "MSRP": "2299.00",
+        "QtyOnHand": "5",
+        "QtyOnBackOrder": "0",
+        "Description": "Distinguished by its updated sensor design, the Alpha a7 III Mirrorless Digital Camera from Sony is a well-rounded camera suitable for both photo and video applications in a variety of working situations. Refined for improved speed and low-light performance, the full-frame 24.2MP Exmor R BSI CMOS sensor and BIONZ X image processor pair to realize an impressive 10 fps continuous shooting rate and improved autofocus performance for faster, more reliable subject tracking along with wide frame coverage. This updated Fast Hybrid AF System employs a combination of 693 phase-detection points and 425 contrast-detection areas for quicker acquirement of focus in a variety of lighting conditions, and also maintains focus on subjects more effectively. In addition to speed and AF, the processing improvements also help to realize greater image clarity and reduced noise throughout the sensitivity range from ISO 100-51200, which can further be expanded to ISO 50-204800. Video recording capabilities have also been extended for enhanced quality when recording UHD 4K video with the full width of the full-frame sensor to minimize moiré and aliasing. Additionally, benefitting both stills and video operation, the a7 III utilizes a 5-axis SteadyShot INSIDE sensor-shift image stabilization, which is now effective to minimize the appearance of camera shake by up to 5 stops.",
+        "Brand": "Sony"
+    },
+    {
+        "ProductName": "A600",
+        "GraphicName": "Sony Alpha a6000 Mirrorless Digital Camera",
+        "CostPrice": "500.00",
+        "MSRP": "649.00",
+        "QtyOnHand": "25",
+        "QtyOnBackOrder": "0",
+        "Description": "The black Sony Alpha a6000 Mirrorless Digital Camera is a versatile and advanced mirrorless camera featuring a 24.3MP APS-C-sized Exmor APS HD CMOS sensor and BIONZ X image processor to produce high-resolution still images and Full HD movies with marked low-light quality and sensitivity to ISO 25600. Beyond notable imaging traits, the image processor also lends itself to continuous shooting up to 11 fps and an intelligent Fast Hybrid AF system that uses both phase- and contrast-detection methods to quickly and accurately acquire focus.",
+        "Brand": "Sony"
+    }
+]
