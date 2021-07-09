@@ -1,7 +1,8 @@
 [
     {
-        "ProductName": "D3500",
-        "GraphicName": "Nikon D3500 DSLR Camera",
+        "id": "NIKOD3500",
+        "ProductName": "D3500 DSLR Camera",
+        "GraphicName": "NIKOD3500",
         "CostPrice": "400.00",
         "MSRP": "599.00",
         "QtyOnHand": "100",
@@ -10,8 +11,9 @@
         "Brand": "Nikon"
     },
     {
-        "ProductName": "D5600",
-        "GraphicName": "Nikon D5600 DSLR Camera",
+        "id": "NIKOD5600",
+        "ProductName": "D5600 DSLR Camera",
+        "GraphicName": "NIKOD5600",
         "CostPrice": "900.00",
         "MSRP": "1299.00",
         "QtyOnHand": "0",
@@ -20,8 +22,9 @@
         "Brand": "Nikon"
     },
     {
-        "ProductName": "D7500",
-        "GraphicName": "Nikon D7500 DSLR Camera",
+        "id": "NIKOD7500",
+        "ProductName": "D7500 DSLR Camera",
+        "GraphicName": "NIKOD7500",
         "CostPrice": "1000.00",
         "MSRP": "1599,00",
         "QtyOnHand": "10",
@@ -30,8 +33,9 @@
         "Brand": "Nikon"
     },
     {
-        "ProductName": "EOS REBEL SL3",
-        "GraphicName": "Canon EOS Rebel SL3 DSLR Camera",
+        "id": "CANOEOSREBELSL3",
+        "ProductName": "EOS Rebel SL3 DSLR Camera",
+        "GraphicName": "CANOEOSREBELSL3",
         "CostPrice": "700.00",
         "MSRP": "899.99",
         "QtyOnHand": "10",
@@ -40,8 +44,9 @@
         "Brand": "Canon"
     },
     {
-        "ProductName": "EOS Rebel T5i",
-        "GraphicName": "Canon EOS Rebel T5i DSLR Camera",
+        "id": "CANOEOSREBELT5I",
+        "ProductName": "EOS Rebel T5i DSLR Camera",
+        "GraphicName": "CANOEOSREBELT5I",
         "CostPrice": "800.00",
         "MSRP": "949.00",
         "QtyOnHand": "0",
@@ -50,8 +55,9 @@
         "Brand": "Canon"
     },
     {
-        "ProductName": "EOS Rebel T7",
-        "GraphicName": "Canon EOS Rebel T7 DSLR Camera",
+        "id": "CANOEOSREBELT7",
+        "ProductName": "EOS Rebel T7 DSLR Camera",
+        "GraphicName": "CANOEOSREBELT7",
         "CostPrice": "450.00",
         "MSRP": "599.00",
         "QtyOnHand": "60",
@@ -60,8 +66,9 @@
         "Brand": "Canon"
     },
     {
-        "ProductName": "A3000",
-        "GraphicName": "Sony Alpha a3000 Digital Camera",
+        "id": "SONYA3000",
+        "ProductName": "Alpha a3000 Digital Camera",
+        "GraphicName": "SONYA3000",
         "CostPrice": "300.00",
         "MSRP": "399.99",
         "QtyOnHand": "10",
@@ -70,8 +77,9 @@
         "Brand": "Sony"
     },
     {
-        "ProductName": "A7III",
-        "GraphicName": "Sony Alpha a7 III Mirrorless Digital Camera",
+        "id": "SONYA7III",
+        "ProductName": "Alpha a7 III Mirrorless Digital Camera",
+        "GraphicName": "SONYA7III",
         "CostPrice": "1700.00",
         "MSRP": "2299.00",
         "QtyOnHand": "5",
@@ -80,8 +88,9 @@
         "Brand": "Sony"
     },
     {
-        "ProductName": "A600",
-        "GraphicName": "Sony Alpha a6000 Mirrorless Digital Camera",
+        "id": "SONYA600",
+        "ProductName": "Alpha a6000 Mirrorless Digital Camera",
+        "GraphicName": "SONYA600",
         "CostPrice": "500.00",
         "MSRP": "649.00",
         "QtyOnHand": "25",
