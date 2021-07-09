@@ -2,7 +2,7 @@
     {
         "id": "NIKOD3500",
         "ProductName": "D3500 DSLR Camera",
-        "GraphicName": "NIKOD3500",
+        "GraphicName": "NIKOD3500.png",
         "CostPrice": "400.00",
         "MSRP": "599.00",
         "QtyOnHand": "100",
@@ -13,7 +13,7 @@
     {
         "id": "NIKOD5600",
         "ProductName": "D5600 DSLR Camera",
-        "GraphicName": "NIKOD5600",
+        "GraphicName": "NIKOD5600.png",
         "CostPrice": "900.00",
         "MSRP": "1299.00",
         "QtyOnHand": "0",
@@ -24,7 +24,7 @@
     {
         "id": "NIKOD7500",
         "ProductName": "D7500 DSLR Camera",
-        "GraphicName": "NIKOD7500",
+        "GraphicName": "NIKOD7500.png",
         "CostPrice": "1000.00",
         "MSRP": "1599,00",
         "QtyOnHand": "10",
