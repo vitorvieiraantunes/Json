@@ -33,6 +33,28 @@
         "Brand": "Nikon"
     },
     {
+        "id": "NIKOD780",
+        "ProductName": "D780 DSLR Camera",
+        "GraphicName": "NIKOD780.png",
+        "CostPrice": "1000.00",
+        "MSRP": "1599,00",
+        "QtyOnHand": "10",
+        "QtyOnBackOrder": "0",
+        "Description": "Born from a desire for flagship performance and innovation in a more compact and streamlined connected camera, the D7500 delivers the game-changing resolution, ISO range, image processing and energy efficiency of the award-winning D500 in an enthusiast-level DSLR. Simply put, the D7500 is built to outperform any camera in its class with top-tier image quality, blazing speed, flawless autofocus, 4K Ultra HD video and pro-grade creative tools—all in a comfortable, rugged design. This is a camera for the new generation of creators.",
+        "Brand": "Nikon"
+    },
+    {
+        "id": "NIKOD500",
+        "ProductName": "D500 DSLR Camera",
+        "GraphicName": "NIKOD500.png",
+        "CostPrice": "1000.00",
+        "MSRP": "1599,00",
+        "QtyOnHand": "10",
+        "QtyOnBackOrder": "0",
+        "Description": "Born from a desire for flagship performance and innovation in a more compact and streamlined connected camera, the D7500 delivers the game-changing resolution, ISO range, image processing and energy efficiency of the award-winning D500 in an enthusiast-level DSLR. Simply put, the D7500 is built to outperform any camera in its class with top-tier image quality, blazing speed, flawless autofocus, 4K Ultra HD video and pro-grade creative tools—all in a comfortable, rugged design. This is a camera for the new generation of creators.",
+        "Brand": "Nikon"
+    },
+    {
         "id": "CANOEOSREBELSL3",
         "ProductName": "EOS Rebel SL3 DSLR Camera",
         "GraphicName": "CANOEOSREBELSL3",
